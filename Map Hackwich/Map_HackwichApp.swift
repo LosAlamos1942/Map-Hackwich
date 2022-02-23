@@ -12,6 +12,7 @@ struct Map_HackwichApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+            
         }
     }
 }
